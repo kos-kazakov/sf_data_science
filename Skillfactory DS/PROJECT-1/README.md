@@ -1,11 +1,11 @@
 # [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/kos-kazakov/sf_data_science/tree/main/Skillfactory%20DS/PROJECT-1)
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
-* [2. Исходные данные](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Исходные-данные)
-* [3. Этапы проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Этапы-проекта)
-* [4. Требования к оформлению решения](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Требования-к-оформлению-решения)
-* [4. Результаты](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Результаты)
+* [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Описание-проекта)
+* [2. Исходные данные](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Исходные-данные)
+* [3. Этапы проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Этапы-проекта)
+* [4. Требования к оформлению решения](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Требования-к-оформлению-решения)
+* [4. Результаты](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Результаты)
 
 ### Описание проекта
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
@@ -34,7 +34,11 @@
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке. Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
 ### Результаты
-[Ноутбук с решеним](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/Project-1.%20HeadHunter%20resume%20analysis.ipynb)
+[Ноутбук с решением](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/Project-1.%20HeadHunter%20resume%20analysis.ipynb)
 
-##  [К оглавлению](https://github.com/kos-kazakov/sf_data_science/blob/main/project_0/README.md#Оглавление)
+[Графики с визуализацией](https://github.com/kos-kazakov/sf_data_science/tree/main/Skillfactory%20DS/PROJECT-1/plotly)
+
+__________________________
+
+##  [К оглавлению](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Оглавление)
 
